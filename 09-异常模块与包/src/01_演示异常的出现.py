@@ -1,0 +1,1 @@
+f=open("abc.txt","r",encoding="utf-8")
