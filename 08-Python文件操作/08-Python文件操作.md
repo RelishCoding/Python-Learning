@@ -122,7 +122,7 @@ print(os.getcwd())
 示例代码：
 
 ```python
-f = open('python.txt', 'r', encoding=”UTF-8)
+f = open('python.txt', 'r', encoding="UTF-8")
 # encoding 的顺序不是第三位，所以不能用位置参数，用关键字参数直接指定
 ```
 
